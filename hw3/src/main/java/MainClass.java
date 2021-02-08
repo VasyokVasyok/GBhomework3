@@ -1,3 +1,4 @@
+/*Home work3*/
 public class MainClass {
     public static void main(String[] args) {
         Integer[] ar1 = {1, 2, 3, 4, 5};
