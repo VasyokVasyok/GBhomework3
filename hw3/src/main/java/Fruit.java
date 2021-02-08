@@ -1,3 +1,5 @@
+/*Home work3
+ * Class Fruit*/
 public class Fruit {
     float weight;
 

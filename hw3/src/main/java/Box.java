@@ -1,3 +1,5 @@
+/*Home work3
+ * Class Box*/
 import java.util.ArrayList;
 import java.util.Arrays;
 
